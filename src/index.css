@@ -1,0 +1,33 @@
+:root {
+  line-height: 1.5;
+  font-weight: 400;
+  --dark-cream: #D87D4A;
+  --dark-white: #F1F1F1;
+  --md-white: #FAFAFA;
+  --hard-white: #fff;
+  --light-cream: #fbaf85;
+  --light-black: #101010;
+  --medium-black: #4c4c4c;
+  --dark-black: #000000;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Manrope", sans-serif;
+}
+
+body {
+  height: 100vh;
+}
+
+.container {
+  width: 90%;
+  width: 1110px;
+  margin: auto;
+}
+
+a {
+  text-decoration: none;
+}
